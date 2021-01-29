@@ -81,7 +81,7 @@
     ]
   },
   "dependencies": {
-    "@typescript-eslint/experimental-utils": "^4.0.1"
+    "@kvganesan/experimental-utils": "4.14.2"
   },
   "devDependencies": {
     "@babel/cli": "^7.4.4",
